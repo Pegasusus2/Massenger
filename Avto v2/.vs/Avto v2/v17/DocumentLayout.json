@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\postoyanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\postoyanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\srok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\srok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\owners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\owners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\srok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\srok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\postoyanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\postoyanik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\naryad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\naryad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\avto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\avto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\mecaniks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\mecaniks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\avtomaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\avtomaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\avto v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\owners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\owners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\war.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\war.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\vxod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\vxod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\datasend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\datasend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\database2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\database2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|e:\\\u0437\u0435\u043B\u0435\u043D\u043E\u0432\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\avto v2\\avto v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\avto v2\\vxod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2AEF348-001C-4755-8B00-EAA971190B95}|Avto v2\\Avto v2.csproj|solutionrelative:avto v2\\vxod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Postoyanik.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Postoyanik.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Postoyanik.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Postoyanik.cs",
+              "RelativeToolTip": "Avto v2\\Postoyanik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:57:06.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Srok.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Srok.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Srok.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Srok.cs",
+              "RelativeToolTip": "Avto v2\\Srok.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:52:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Owners.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Owners.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Owners.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Owners.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Owners.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:52:33.763Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Postoyanik.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Postoyanik.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Postoyanik.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Postoyanik.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Postoyanik.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:28.93Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mecaniks.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Mecaniks.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Mecaniks.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Mecaniks.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Mecaniks.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:51.571Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kategori.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Kategori.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Kategori.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Kategori.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Kategori.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:57.475Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AvtoMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\AvtoMaster.cs",
+              "RelativeDocumentMoniker": "Avto v2\\AvtoMaster.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\AvtoMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\AvtoMaster.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:04.588Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Avto.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Avto.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Avto.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Avto.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Avto.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:12.706Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Srok.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Srok.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Srok.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Srok.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Srok.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:23.954Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Form1.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Form1.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:56:13.328Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Owners.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Owners.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Owners.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Owners.cs",
+              "RelativeToolTip": "Avto v2\\Owners.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA7wCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Naryad.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Naryad.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Naryad.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Naryad.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Naryad.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:48:44.693Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "War.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\War.cs",
+              "RelativeDocumentMoniker": "Avto v2\\War.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\War.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\War.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:49:20.174Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataBase2.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\DataBase2.cs",
+              "RelativeDocumentMoniker": "Avto v2\\DataBase2.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\DataBase2.cs",
+              "RelativeToolTip": "Avto v2\\DataBase2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:36:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataSend.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\DataSend.cs",
+              "RelativeDocumentMoniker": "Avto v2\\DataSend.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\DataSend.cs",
+              "RelativeToolTip": "Avto v2\\DataSend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:35:56.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Form1.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Form1.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Form1.cs",
+              "RelativeToolTip": "Avto v2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:09:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vxod.cs",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Vxod.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Vxod.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Vxod.cs",
+              "RelativeToolTip": "Avto v2\\Vxod.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:23:56.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vxod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Vxod.cs",
+              "RelativeDocumentMoniker": "Avto v2\\Vxod.cs",
+              "ToolTip": "E:\\\u0417\u0435\u043B\u0435\u043D\u043E\u0432\\\u041F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u0432\u0435\u0440\u0441\u0438\u044F 2\\Avto v2\\Avto v2\\Vxod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Avto v2\\Vxod.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:24:21.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

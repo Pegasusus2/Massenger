@@ -1,0 +1,103 @@
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Avto v2.exe.config
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Avto v2.exe
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Avto v2.pdb
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.AssemblyReference.cache
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Form1.resources
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Properties.Resources.resources
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.GenerateResource.cache
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.CoreCompileInputs.cache
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.exe
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.pdb
+F:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Vxod.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Avto v2.exe.config
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Avto v2.exe
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Avto v2.pdb
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.AssemblyReference.cache
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Form1.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Vxod.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Properties.Resources.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.GenerateResource.cache
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.CoreCompileInputs.cache
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.exe
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.pdb
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Identity.Client.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Buffers.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Memory.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Numerics.Vectors.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Azure.Identity.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.ValueTuple.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.Principal.Windows.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Identity.Client.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Buffers.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Memory.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Numerics.Vectors.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto v2.csproj.Up2Date
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft Access База данных.accdb
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Azure.Core.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.ClientModel.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Memory.Data.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.AccessControl.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.Permissions.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Text.Encodings.Web.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Text.Json.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Azure.Core.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Azure.Identity.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.ClientModel.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Memory.Data.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.AccessControl.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.Permissions.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Security.Principal.Windows.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Text.Encodings.Web.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Text.Json.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\System.ValueTuple.xml
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Avto.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.AvtoMaster.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Kategori.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Mecaniks.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Naryad.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Owners.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Postoyanik.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.Srok.resources
+E:\Зеленов\Приложение версия 2\Avto v2\Avto v2\obj\Debug\Avto_v2.War.resources
