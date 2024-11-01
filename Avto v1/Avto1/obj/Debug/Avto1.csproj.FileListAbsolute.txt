@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\bin\Debug\Avto1.exe.config
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\bin\Debug\Avto1.exe
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\bin\Debug\Avto1.pdb
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Form1.resources
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Properties.Resources.resources
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.exe
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\obj\Debug\Avto1.pdb
+C:\Users\User\Desktop\Зеленов\Avto1\Avto1\bin\Debug\Microsoft Access База данных.accdb
+F:\Зеленов\Avto1\Avto1\bin\Debug\Microsoft Access База данных.accdb
+F:\Зеленов\Avto1\Avto1\bin\Debug\Avto1.exe.config
+F:\Зеленов\Avto1\Avto1\bin\Debug\Avto1.exe
+F:\Зеленов\Avto1\Avto1\bin\Debug\Avto1.pdb
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.AssemblyReference.cache
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Form1.resources
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Properties.Resources.resources
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.GenerateResource.cache
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.CoreCompileInputs.cache
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.exe
+F:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.pdb
+E:\Зеленов\Avto1\Avto1\bin\Debug\Microsoft Access База данных.accdb
+E:\Зеленов\Avto1\Avto1\bin\Debug\Avto1.exe.config
+E:\Зеленов\Avto1\Avto1\bin\Debug\Avto1.exe
+E:\Зеленов\Avto1\Avto1\bin\Debug\Avto1.pdb
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.AssemblyReference.cache
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Avto.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Form1.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Kategory.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Master.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Mechanic.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Owner.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Plan.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Postoyznik.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Properties.Resources.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.Remont.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.War.resources
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.GenerateResource.cache
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.csproj.CoreCompileInputs.cache
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.exe
+E:\Зеленов\Avto1\Avto1\obj\Debug\Avto1.pdb
